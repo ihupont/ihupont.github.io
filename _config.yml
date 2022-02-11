@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/isabelle-hupont-torres-95747910/"
+  linkedin         : "www.linkedin.com/in/isabelle-hupont-torres-95747910"
   orcid            : "https://orcid.org/0000-0002-9811-9397"
   pinterest        :
   soundcloud       :
@@ -209,15 +209,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
