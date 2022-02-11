@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Isabelle Hupont Torres, PhD"
   avatar           : "foto_isa_zowi.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Trustworthy AI enthusiast"
   location         : "Seville (Spain)"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=jNLffNcAAAAJ&hl=es"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Isabelle-Hupont-Torres"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/isabelle-hupont-torres-95747910/"
+  orcid            : "https://orcid.org/0000-0002-9811-9397"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
