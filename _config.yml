@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Isabelle's personal site"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Isabelle Hupont Torres"
 description              : &description "personal description"
