@@ -24,28 +24,28 @@ Work experience
 
 <br>
 
-* <b>2021: Scientific Project Officer, European Commmission's Joint Research Centre - Seville, Spain.</b>
+* <b>2021: Scientific Project Officer, [HUMAINT team](https://ec.europa.eu/jrc/communities/en/community/humaint), European Commmission's Joint Research Centre - Seville, Spain.</b>
   * Research on trustworthy affective computing and facial processing.
   * Co-reponsible for [DivinAI](https://divinai.org/), a platform for the study of diversity in AI forums.
   * Scientific policy support in AI regulations.
 
-* <b>2017-2021: Chief Research Officer, Herta Security S.L. - Barcelona, Spain.</b>
+* <b>2017-2021: Chief Research Officer, [Herta Security S.L.](https://hertasecurity.com/) - Barcelona, Spain.</b>
   * Management of R&D projects funded by the European Commission and the Spanish Government, in the area of AI-driven security for smart and safe cities. 
   * Research on Deep Learning algorithms and platforms (including DNN accelerators) for large-scale face recognition, face analysis and crowd behavior understanding.
   * Patents and National/European project proposals writing. 
   * Dissemination of research results in journals, conferences and seminars.
   * Torres Quevedo fellowship for Doctors, awarded by the Spanish Ministry of Education and Science. 
 
-* <b>2015-2017: Senior Researcher, Institut des Systèmes Intelligents et de Robotique, CNRS / Sorbonne University - Paris, France.</b>
+* <b>2015-2017: Senior Researcher, [Institut des Systèmes Intelligents et de Robotique](https://www.isir.upmc.fr/), CNRS / Sorbonne University - Paris, France.</b>
   * Proposals writing and management of R&D projects funded by the European Commission and the French Government, in the area of social robotics.
   * Development of real-time facial expression recognition algorithms for social interaction with robots and virtual humans. 
   * Research on non-verbal human behaviour understanding (emotions, synchrony and engagement).
   * Dissemination of research results in journals, conferences and master classes.
 
-* <b>2011-2015: Associate Professor of Computer Science, San Jorge University - Zaragoza, Spain.</b>
+* <b>2011-2015: Associate Professor of Computer Science, [San Jorge University](https://www.usj.es/estudios/grados/doble-titulacion-ingenieria-informatica-diseno-desarrollo-videojuegos) - Zaragoza, Spain.</b>
   * Teaching AI, Computer Graphics, Computer Vision and Human-Machine Interaction courses to 3rd/4th year Computer Science students.
 
-* <b>2007-2015: R&D Project Manager, Aragon Institute of Technology (ITAINNOVA), Multimedia Technology Division - Zaragoza, Spain.</b>
+* <b>2007-2015: R&D Project Manager, Aragon Institute of Technology ([ITAINNOVA](https://www.itainnova.es/es/investigacion-innovacion)), Multimedia Technology Division - Zaragoza, Spain.</b>
   * Head of the Multimodal Human-Machine Interaction research line. 
   * Management of R&D projects funded by the European Commission and Spanish research programmes, in the areas of Intelligent Interactive Systems (smart homes, interactive TV, AAL), Quality of User Experience (QoE estimators, human behaviour understanding) and Industry 4.0 (decision support systems, smart logistics, factories of the future).
   * Management of private projects with local SMEs. Integration of advanced Artificial Intelligence, Computer Vision and interaction techniques to provide an added value to SMEs’ traditional products.
