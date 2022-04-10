@@ -1,11 +1,8 @@
 ---
-permalink: /
-title: ""
-excerpt: "Publications"
+layout: archive
+title: "Publications"
+permalink: /publications/
 author_profile: true
-redirect_from: 
-  - /publications/
-  - /publications.html
 ---
 
 Google Scholar does a good job showcasing researchers' academic publications! 
