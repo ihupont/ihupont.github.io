@@ -12,14 +12,18 @@ redirect_from:
 Education
 ======
 <br>
+
 * Ph.D. Cum Laude in Computer Science Engineering, University of Zaragoza, 2010
 * Ms.C. in Computer Science and Systems Engineering, University of Zaragoza, 2008
 * B.Sc. in Telecommunications Engineering. University of Zaragoza, 2006
+* 
 <br>
   
 Work experience
 ======
+
 <br>
+
 * <b>2021: Scientific Project Officer, European Commmission's Joint Research Centre - Seville, Spain.</b>
   * Research on trustworthy affective computing and facial processing.
   * Co-reponsible for [DivinAI](https://divinai.org/), a platform for the study of diversity in AI forums.
