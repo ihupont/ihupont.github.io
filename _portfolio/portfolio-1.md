@@ -4,4 +4,4 @@ excerpt: "I was lucky to collaborate with the wonderful artist [Max de Esteban](
 collection: portfolio
 ---
 
-Lucky to have collaborated with Max de Esteban in his impressive artwork A Forest https://www.klompching.com/newsblog/2021/2/2/max-de-esteban-museum-acquisition. The artist politely asks a deep neural network for a selfie, even though -as an algorithm- it has no self.
+Lucky to have collaborated with Max de Esteban in his impressive artwork [A Forest](https://www.klompching.com/newsblog/2021/2/2/max-de-esteban-museum-acquisition). The artist politely asks a deep neural network for a selfie, even though -as an algorithm- it has no self!
