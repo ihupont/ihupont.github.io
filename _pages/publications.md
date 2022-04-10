@@ -4,7 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-You can also find my articles on <u><a href="http://scholar.google.com/yourgooglescholarprofile">my Google Scholar profile</a>.</u>
+Google Scholar does a good job showcasing researchers' academic publications! 
+
+You can check the articles I have co-authored and their citation metrics in [my public Google Scholar profile](https://scholar.google.com/citations?user=jNLffNcAAAAJ&hl=es).
 
 {% include base_path %}
 
