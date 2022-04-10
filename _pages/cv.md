@@ -16,7 +16,7 @@ Education
 * Ph.D. Cum Laude in Computer Science Engineering, University of Zaragoza, 2010
 * Ms.C. in Computer Science and Systems Engineering, University of Zaragoza, 2008
 * B.Sc. in Telecommunications Engineering. University of Zaragoza, 2006
-* 
+
 <br>
   
 Work experience
