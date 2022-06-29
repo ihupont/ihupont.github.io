@@ -14,4 +14,4 @@ Tecnosocial 2022 is a project promoted by the Department of Equality, Social Pol
 
 I presented [HUMAINT](https://ec.europa.eu/jrc/communities/en/community/humaint)'s research on trustworthy human-centred AI in a keynote speech entitled <i>AI and its impact on people from a European perspective: the example of facial analysis applications</i>.
 
-<br> <br/><img src='/images/TECNOSOCIAL.jpg'>"
+<br> <br/><img src='/images/tecnosocial.jpg'>"
