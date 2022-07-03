@@ -2,7 +2,7 @@
 title: "The landscape of facial processing applications in the context of the European AI Act and the development of trustworthy systems"
 collection: publications
 permalink: /publications/2022-06-23-facial-processing-landscape
-excerpt: "This article presents the landscape of facial processing tasks, systems and applications. It identifies the 60 most relevant applications adopted for real-world uses, which are analysed under the lens of the European AI Act proposal and the 7 requirements for Trustworthy AI defined by the European High Level Expert Group on AI. It also reflects on current research, technical and societal challenges towards trustworthy facial processing systems."
+excerpt: "This article presents the landscape of <b>facial processing</b> tasks, systems and applications. It identifies the 60 most relevant applications adopted for real-world uses, which are analysed under the lens of the <b>European AI Act</b> proposal and the 7 requirements for Trustworthy AI defined by the European High Level Expert Group on AI. It also reflects on current research, technical and societal challenges towards trustworthy facial processing systems."
 date: 2022-06-23
 venue: "Nature Scientific Reports"
 paperurl: "https://www.nature.com/articles/s41598-022-14981-6"
