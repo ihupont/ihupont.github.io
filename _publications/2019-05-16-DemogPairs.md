@@ -13,5 +13,5 @@ Although deep face recognition has achieved impressive results in recent years, 
 
 <br> <br/><img src='/images/DemogPairs_pairs_examples.png'>
 
-<br> <br/> <b>Dataset download: <b/> DemogPairs can be downloaded from this [Google Drive link](https://drive.google.com/file/d/1f_ez-ll6wxDXScrG4ceStZRuLT_K8Uy8/view?usp=sharing). The DemogPairs dataset is available for non-commercial research purposes only. By downloading DemogPairs you agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of the images and any portion of derived data.
+<br> <br/> <b>Dataset download: <b/> DemogPairs can be downloaded from this [Google Drive link](https://drive.google.com/file/d/1f_ez-ll6wxDXScrG4ceStZRuLT_K8Uy8/view?usp=sharing) (173MB). The DemogPairs dataset is available for non-commercial research purposes only. By downloading DemogPairs you agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of the images and any portion of derived data.
 
