@@ -6,9 +6,7 @@ author_profile: true
 ---
 
 <br>
-Google Scholar does a good job showcasing researchers' academic publications! You can check the articles I have co-authored in the past and their citation metrics in [my public Google Scholar profile](https://scholar.google.com/citations?user=jNLffNcAAAAJ&hl=es).
-
-In this section I will focus on presenting in more detail my most recent and impactful work.
+You can check all the articles I have co-authored in my public <b>[Google Scholar profile](https://scholar.google.com/citations?user=jNLffNcAAAAJ&hl=es)</b>. Here below, I focus on presenting in more detail a selection of my most recent work.
 
 {% include base_path %}
 
