@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2019-05-16-demogpairs
 excerpt: "In this paper we present <b>DemogPairs</b>, a publicly released validation dataset with 10.8K facial images and 58.3M identity verification pairs, distributed in demographically-balanced folds of Asian, Black and White females and males. DemogPairs and its associated benchmarking protocol are conceived to explore demographic biases and the cross-demographic behaviour of face recognition algorithms. More information on <b>how to obtain DemogPairs [here](https://ihupont.github.io/publications/2019-05-16-demogpairs)</b>."
 date: 2019-05-16
-venue: "IEEE International Conference on Automatic Face and Gesture Recognition (FG 2019)"
+venue: "IEEE Int. Conf. on Automatic Face and Gesture Recognition (FG 2019)"
 paperurl: "https://ieeexplore.ieee.org/abstract/document/8756625"
 citation: 'Hupont, I. and  Fernández, C., DemogPairs: Quantifying the impact of demographic imbalance in deep face recognition, 14th IEEE International Conference on Automatic Face & Gesture Recognition (FG 2019). IEEE, 2019.'
 ---
