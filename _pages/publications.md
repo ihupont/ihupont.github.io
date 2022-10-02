@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <br>
-You can check all the articles I have co-authored in my public <b>[Google Scholar profile](https://scholar.google.com/citations?user=jNLffNcAAAAJ&hl=es)</b>. Here below, I present only a small recent selection of them, either because they have some associated material (e.g. a dataset, a repository) or because of their impact with respect to Trustworthy AI.
+You can check all the articles I have co-authored in my public <b>[Google Scholar profile](https://scholar.google.com/citations?user=jNLffNcAAAAJ&hl=es)</b>. Here below, I present only a small recent selection of them, either because they have some associated material (e.g. a dataset, a repository) or because of their impact on Trustworthy AI.
 
 {% include base_path %}
 
