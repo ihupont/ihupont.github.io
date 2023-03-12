@@ -21,10 +21,10 @@ Education
 Work experience
 ======
 
-* <b>Since 2021: Scientific Project Officer, [HUMAINT team](https://ec.europa.eu/jrc/communities/en/community/humaint), European Commmission's Joint Research Centre - Seville, Spain.</b>
-  * Research on trustworthy affective computing and facial processing.
+* <b>Since 2021: Scientific Officer, [European Centre for Algorithmic Transparency](https://algorithmic-transparency.ec.europa.eu/index_en), European Commmission's Joint Research Centre - Seville, Spain.</b>
+  * Research on trustworthy AI, affective computing, facial processing, biometrics and metaverse.
   * Co-responsible for [DivinAI](https://divinai.org/), a platform for the study of diversity in AI forums.
-  * Scientific policy support in AI regulations.
+  * Scientific policy support in AI regulations and standards.
 
 * <b>2017-2021: Chief Research Officer, [Herta Security S.L.](https://hertasecurity.com/) - Barcelona, Spain.</b>
   * Management of R&D projects funded by the European Commission and the Spanish Government, in the area of AI-driven security for smart and safe cities. 
