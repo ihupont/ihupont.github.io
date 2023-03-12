@@ -12,4 +12,4 @@ location: "Barcelona, Spain"
 
 At the end of the day, participants proposed groundbreaking solutions to improve this biometric technology, with the aim of guaranteeing the security of people's privacy and trustworthy face recognition. Carme Artigas, the Secretary of State for Digitization and Artificial Intelligence of the Government of Spain, was in charge of giving the award to the winning companies, [Herta](https://hertasecurity.com/) and [Veridas](https://veridas.com/).
 
-
+<br> <br/><img src='/images/mwc23.jpg'>"
