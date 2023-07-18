@@ -1,5 +1,5 @@
 ---
-title: "Next Generation Virtual Worlds: Societal, Technological, Economic and Policy Challenges for the EU"
+title: "Next generation virtual worlds: societal, technological, economic and policy challenges for the EU"
 collection: publications
 permalink: /publications/2023-07-03-virtual-worlds-report
 excerpt: "This scientific report provides a multidisciplinary and multisectoral perspective on next generation virtual worlds, the opportunities they offer, the challenges they might bring and a techno-economic analysis of current key players. "
