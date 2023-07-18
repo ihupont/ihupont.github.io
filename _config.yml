@@ -83,7 +83,7 @@ author:
   name             : "Isabelle Hupont Torres (<i>she/her</i>)"
   avatar           : "foto_isa_zowi.jpg"
   bio              : "Researcher on Trustworthy AI and digital worlds"
-  location         : "Seville (Spain)"
+  location         : # "Seville (Spain)"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=jNLffNcAAAAJ&hl=es"
