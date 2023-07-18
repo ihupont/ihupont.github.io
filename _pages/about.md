@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Isabelle and I'm a passionate researcher on Artificial Intelligence (AI) and Human-Machine Interaction (HMI) with 17+ years of experience in the field. Since 2010, I hold a PhD diploma from the University of Zaragoza, Spain. My [thesis](https://www.academia.edu/5104979/Affective_computing_Emotional_facial_sensing_and_multimodal_fusion_PhD_dissertation_I_Hupont_) focused on affective computing, more particularly on facial expression analysis for the enhancement of the interaction of humans with virtual agents. 
+Hi! I'm Isabelle, a passionate researcher on Artificial Intelligence (AI) and Human-Machine Interaction (HMI) with 17+ years of experience in the field. Since 2010, I hold a PhD diploma from the University of Zaragoza, Spain. My [thesis](https://www.academia.edu/5104979/Affective_computing_Emotional_facial_sensing_and_multimodal_fusion_PhD_dissertation_I_Hupont_) focused on affective computing, more particularly on facial expression analysis to enhance the interaction of humans with virtual agents. 
 
 Throughout my carreer, I have worked at different institutions of very different nature: purely academic ([Affective Lab](http://giga.cps.unizar.es/affectivelab/) - University of Zaragoza; Sorbonne University, Paris), technological institutes ([Aragon Institute of Technology](https://www.itainnova.es/), Zaragoza; [Institut des Systèmes Intelligents et de Robotique](https://www.isir.upmc.fr/) CNRS, France), and private sector ([Herta](https://hertasecurity.com/)). This has provided me with a very broad picture, from the earliest stages of fundamental research to bringing a final product to the market.
 
