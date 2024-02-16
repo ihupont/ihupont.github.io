@@ -16,6 +16,6 @@ My research has always keep focusing on AI, affective computing, facial analysis
 
 I have more than [75 scientific publications](https://scholar.google.com/citations?user=jNLffNcAAAAJ&hl=es) in highly-ranked journals and well-known international conferences. I have a track record participation in National (French and Spanish) and European (H2020, Interreg, Echord++, Eureka, AAL and SME Instument) public-funded projects. I have been part of more than 35 of them, under different roles, from development tasks to project management. A significant number of these projects have resulted in the technological transfer of cutting-edge R&D results to real and highly innovative industry products.
 
-I'm strongly committed to women's rights, encouraging young girls to take an interest in technical careers, and a convinced advocate for [diversity in AI](https://divinai.org/). I believe that ensuring the defence of the interests and equal opportunities for all is an agent of change for society, technology and science.
+I'm strongly committed to women's rights, encouraging young girls to take an interest in technical careers, and a convinced advocate for [diversity in AI](https://ai-watch.ec.europa.eu/humaint/divinai_en). I believe that ensuring the defence of the interests and equal opportunities for all is an agent of change for society, technology and science.
 
 When not working, I'm likely visiting schools to foster STEM vocation in girls, playing drums, watching TV series or spending some time with my lovely puppy Baba. 
