@@ -1,5 +1,5 @@
 ---
-title: "Jury at the hackathon on face recognition @ MWC 2023"
+title: "Jury at the hackathon on face recognition at MWC 2023"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-02-28-DFSHackathon
