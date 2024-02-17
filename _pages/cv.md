@@ -14,17 +14,18 @@ redirect_from:
 Education
 ======
 
-* Ph.D. Cum Laude in Computer Science Engineering, University of Zaragoza, 2010.
-* Ms.C. in Computer Science and Systems Engineering, University of Zaragoza, 2008.
-* B.Sc. in Telecommunications Engineering. University of Zaragoza, 2006.
+* Ph.D. Cum Laude in Computer Science Engineering, University of Zaragoza, 2010. Thesis title: “Affective Computing: Emotional facial sensing and multimodal fusion”. 
+* Ms.C. in Computer Science and Systems Engineering, University of Zaragoza, 2008. Thesis title: “Emotional facial expressions classification”. 
+* B.Sc. in Telecommunications Engineering. University of Zaragoza, 2006. Dual emphases on Artificial Intelligence (AI) and Computer Graphics. 
 
 Work experience
 ======
 
-* <b>Since 2021: Scientific Officer, [European Centre for Algorithmic Transparency](https://algorithmic-transparency.ec.europa.eu/index_en), European Commmission's Joint Research Centre - Seville, Spain.</b>
-  * Research on trustworthy AI, affective computing, facial processing, biometrics and metaverse.
-  * Co-responsible for [DivinAI](https://divinai.org/), a platform for the study of diversity in AI forums.
-  * Scientific policy support in AI regulations and standards.
+* <b>Since 2021: Scientific Officer, [European Commmission's Joint Research Centre](https://joint-research-centre.ec.europa.eu/jrc-sites-across-europe/jrc-seville-spain_en) - Seville, Spain.</b>
+  * Research and policy science on [next generation virtual worlds](https://publications.jrc.ec.europa.eu/repository/handle/JRC133757), including eXtended-, Virtual- and Augmented-Reality.
+  * Research and policy science on [trustworthy](https://link.springer.com/article/10.1007/s10676-023-09725-7) and [explainable AI](https://dl.acm.org/doi/pdf/10.1145/3593013.3594069), with particular focus on affective computing, [facial processing and biometrics](https://www.nature.com/articles/s41598-022-14981-6).
+  * Co-responsible for [DivinAI](https://divinai.org/), a platform for the study of diversity in AI forums. The project was awarded the “Diversity and Inclusion Awards 2023” by the European Commission.
+  * Scientific policy support in AI regulations (AI Act, Digital Services Act, Interoperability Act) and related standards.
 
 * <b>2017-2021: Chief Research Officer, [Herta Security S.L.](https://hertasecurity.com/) - Barcelona, Spain.</b>
   * Management of R&D projects funded by the European Commission and the Spanish Government, in the area of AI-driven security for smart and safe cities. 
@@ -46,7 +47,7 @@ Work experience
   * Head of the Multimodal Human-Machine Interaction research line. 
   * Management of R&D projects funded by the European Commission and Spanish research programmes, in the areas of Intelligent Interactive Systems (smart homes, interactive TV, AAL), Quality of User Experience (QoE estimators, human behaviour understanding) and Industry 4.0 (decision support systems, smart logistics, factories of the future).
   * Management of private projects with local SMEs. Integration of advanced Artificial Intelligence, Computer Vision and interaction techniques to provide an added value to SMEs’ traditional products.
-  * In charge of ITA’s UX laboratory. Deep expertise on techniques for user behaviour understanding and the automated measure of UX, such as eye tracking, body tracking, sentiment and facial expression analysis.
+  * In charge of [ITA’s UX laboratory](http://www.cdaudiovisual.es/index.html%3Fq=node%252Fequipamiento.html). Deep expertise on techniques for user behaviour understanding and the automated measure of UX, such as eye tracking, body tracking, sentiment and facial expression analysis.
 
 * <b>2005-2007: Research Student, Advanced Computer Graphics Group (GIGA), University of Zaragoza - Zaragoza, Spain.</b>
   * Development of multimodal emotion recognition algorithms based on Computer Vision and AI. Integration of the algorithms in MAXINE, an engine for the management of 3D virtual agents.
