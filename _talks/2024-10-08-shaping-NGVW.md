@@ -1,5 +1,5 @@
 ---
-title: "Keynote at the Science for Policy event Shaping the Next Generation of Virtual Worlds"
+title: "Keynote at the Science for Policy event 'Shaping the Next Generation of Virtual Worlds'"
 collection: talks
 type: "Talk"
 permalink: /talks/2024-10-08-shaping-NGVW
