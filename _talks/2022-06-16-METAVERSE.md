@@ -12,4 +12,4 @@ I was happy to participate as a panelist in the [METAVERSE LEGALTECH TOMORROW](h
 
 We had excellent and interesting discussions around the future of the Metaverse, covering social, legal, economic and technological aspects. I tried to provide my own views on how AI and data -and their impact on humans- could potentially evolve in this new social paradigm that is yet to be discovered!
 
-<br> <br/><img src='/images/Metaverse_16jun2022.jfif'>"
+<br> <br/><img src='/images/Metaverse_16jun2022.jfif'>
