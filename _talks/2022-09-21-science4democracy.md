@@ -12,4 +12,4 @@ Honoured to participate in the roundtable on [AI AND DEMOCRACY](https://sciencef
 
 We reflected on the key steps towards trustworthy AI, most prominent challenges, and the need to assess and balance risks vs opportunites when moving AI systems to operational scenarios.
 
-<br> <br/><img src='/images/AI_Human_Rights_21sep2022.jpg'>"
+<br> <br/><img src='/images/AI_Human_Rights_21sep2022.jpg'>
