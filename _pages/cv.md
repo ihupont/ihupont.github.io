@@ -20,7 +20,7 @@ Education
 
 Work experience
 ======
-* <b>2021-2025: Scientific Advisor, [Spanish Ministry of Science, Innovation and Universities](https://www.ciencia.gob.es/) - Madrid, Spain.</b>
+* <b>2025 - present: Scientific Advisor, [Spanish Ministry of Science, Innovation and Universities](https://www.ciencia.gob.es/) - Madrid, Spain.</b>
   * Member of the Minister's cabinet.
     
 * <b>2021-2025: Scientific Officer, [European Commmission's Joint Research Centre](https://joint-research-centre.ec.europa.eu/jrc-sites-across-europe/jrc-seville-spain_en) - Seville, Spain.</b>
