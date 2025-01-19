@@ -20,8 +20,10 @@ Education
 
 Work experience
 ======
-
-* <b>Since 2021: Scientific Officer, [European Commmission's Joint Research Centre](https://joint-research-centre.ec.europa.eu/jrc-sites-across-europe/jrc-seville-spain_en) - Seville, Spain.</b>
+* <b>2021-2025: Scientific Advisor, [Spanish Ministry of Science, Innovation and Universities](https://www.ciencia.gob.es/) - Madrid, Spain.</b>
+  * Member of the Minister's cabinet.
+    
+* <b>2021-2025: Scientific Officer, [European Commmission's Joint Research Centre](https://joint-research-centre.ec.europa.eu/jrc-sites-across-europe/jrc-seville-spain_en) - Seville, Spain.</b>
   * Research and policy science on [next generation virtual worlds](https://publications.jrc.ec.europa.eu/repository/handle/JRC133757), including eXtended-, Virtual- and Augmented-Reality.
   * Research and policy science on [trustworthy](https://link.springer.com/article/10.1007/s10676-023-09725-7) and [explainable AI](https://dl.acm.org/doi/pdf/10.1145/3593013.3594069), with particular focus on affective computing, [facial processing and biometrics](https://www.nature.com/articles/s41598-022-14981-6).
   * Co-responsible for [DivinAI](https://ai-watch.ec.europa.eu/humaint/divinai_en), a platform for the study of diversity in AI forums. The project was awarded the “Diversity and Inclusion Awards 2023” by the European Commission.
